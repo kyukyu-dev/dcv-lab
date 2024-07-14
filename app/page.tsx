@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.mainImageContainer}>
         <Image
-          src="/main-image.webp"
+          src="/dcv-lab/main-image.webp"
           alt="메인 이미지"
           fill
           style={{
@@ -222,7 +222,7 @@ export default function Home() {
 
           <div className={styles.row}>
             <Image
-              src="/gallery_1.webp"
+              src="/dcv-lab/gallery_1.webp"
               alt="갤러리 1"
               width={700}
               height={860}
@@ -233,7 +233,7 @@ export default function Home() {
             />
 
             <Image
-              src="/gallery_2.webp"
+              src="/dcv-lab/gallery_2.webp"
               alt="갤러리 2"
               width={540}
               height={860}
@@ -246,7 +246,7 @@ export default function Home() {
 
           <div className={styles.row}>
             <Image
-              src="/gallery_3.webp"
+              src="/dcv-lab/gallery_3.webp"
               alt="갤러리 3"
               width={340}
               height={520}
@@ -257,7 +257,7 @@ export default function Home() {
             />
 
             <Image
-              src="/gallery_4.webp"
+              src="/dcv-lab/gallery_4.webp"
               alt="갤러리 4"
               width={340}
               height={520}
@@ -268,7 +268,7 @@ export default function Home() {
             />
 
             <Image
-              src="/gallery_5.webp"
+              src="/dcv-lab/gallery_5.webp"
               alt="갤러리 5"
               width={540}
               height={520}
@@ -282,7 +282,7 @@ export default function Home() {
           <div className={styles.row}>
             <div className={styles.column}>
               <Image
-                src="/gallery_6.webp"
+                src="/dcv-lab/gallery_6.webp"
                 alt="갤러리 6"
                 width={540}
                 height={400}
@@ -293,7 +293,7 @@ export default function Home() {
               />
 
               <Image
-                src="/gallery_7.webp"
+                src="/dcv-lab/gallery_7.webp"
                 alt="갤러리 7"
                 width={540}
                 height={400}
@@ -305,7 +305,7 @@ export default function Home() {
             </div>
 
             <Image
-              src="/gallery_8.webp"
+              src="/dcv-lab/gallery_8.webp"
               alt="갤러리 8"
               width={700}
               height={860}
@@ -318,7 +318,7 @@ export default function Home() {
 
           <div className={styles.row}>
             <Image
-              src="/gallery_9.webp"
+              src="/dcv-lab/gallery_9.webp"
               alt="갤러리 9"
               width={1280}
               height={1072}
